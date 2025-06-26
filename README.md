@@ -13,3 +13,11 @@ The backend exposes the following REST API endpoints:
 GET /api/items: Fetches all items from the database.
 POST /api/items: Adds a new item to the database. Expects multipart/form-data.
 POST /api/enquire: Receives an item ID and sends an enquiry email.
+
+![image](https://github.com/user-attachments/assets/f144c1af-920d-46ff-98f1-c01735c1871b)
+
+![image](https://github.com/user-attachments/assets/0dc2c702-6657-4747-b32f-ee8a48c291f7)
+
+![image](https://github.com/user-attachments/assets/107c5813-9013-4c9d-9e79-8a07900da430)
+
+![image](https://github.com/user-attachments/assets/52db9412-7520-4905-be07-86adbf32d8f0)
